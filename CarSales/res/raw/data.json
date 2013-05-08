@@ -1,0 +1,83 @@
+{
+    "cars": {
+        "Car": [
+            {
+                "manufacture": "Toyota",
+                "model": "corolla",
+                "color": "blue",
+                "budget": "300000",
+                "sales": "20000"
+            },
+            {
+                "manufacture": "Toyota",
+                "model": "camrey",
+                "color": "silver",
+                "budget": "350000",
+                "sales": "21000"
+            },
+            {
+                "manufacture": "Toyota",
+                "model": "qualis",
+                "color": "silver",
+                "budget": "800000",
+                "sales": "200000"
+            },
+            {
+                "manufacture": "Toyota",
+                "model": "corolla",
+                "color": "black",
+                "budget": "600000",
+                "sales": "30000"
+            },
+            {
+                "manufacture": "maruti",
+                "model": "800",
+                "color": "blue",
+                "budget": "300000",
+                "sales": "40000"
+            },
+            {
+                "manufacture": "maruti",
+                "model": "alto",
+                "color": "blue",
+                "budget": "350000",
+                "sales": "250000"
+            },
+            {
+                "manufacture": "maruti",
+                "model": "swift",
+                "color": "silver",
+                "budget": "650000",
+                "sales": "450000"
+            },
+            {
+                "manufacture": "Hyundai",
+                "model": "i10",
+                "color": "blue",
+                "budget": "600000",
+                "sales": "250000"
+            },
+            {
+                "manufacture": "Hyundai",
+                "model": "i20",
+                "color": "silver",
+                "budget": "500000",
+                "sales": "150000"
+            },
+            {
+                "manufacture": "Hyundai",
+                "model": "accent",
+                "color": "silver",
+                "budget": "1000000",
+                "sales": "350000"
+            },
+            {
+                "manufacture": "Hyundai",
+                "model": "Elentra",
+                "color": "silver",
+                "budget": "600000",
+                "sales": "30000"
+            }
+        ]
+    }
+}
